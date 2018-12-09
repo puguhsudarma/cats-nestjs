@@ -1,4 +1,4 @@
 node_modules/
-nodemon-debug.json
 .vscode/
 .DS_Store
+ormconfig.json
